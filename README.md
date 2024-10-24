@@ -1,1 +1,8 @@
-# README
+## Hey 👋, This is Joniel Font
+[![Gmail Badge](https://img.shields.io/badge/-jonielfont2015@icloud.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jonielfont2015@icloud.com)](mailto:jonielfont2015@icloud.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Joniel Font-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Joniel Font/)](https://www.linkedin.com/in/Joniel Font/) [![Github Badge](https://img.shields.io/badge/-JonielF-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JonielF/)](https://www.github.com/JonielF/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/JonielF/)](https://github.com/JonielF/) <p align='left'>As an aspiring Business Analyst, I am eager to grow my skills and gain hands-on experience in the field. I have a strong foundation in data analysis, problem-solving, and business process optimization, with a keen interest in bridging the gap between technical solutions and business needs. I am looking to collaborate with reputable companies, whether through employment or outsourced work, to contribute to meaningful projects and expand my expertise. My goal is to continuously learn, adapt, and deliver value-driven insights that help organizations achieve their strategic objectives.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1wo4QIl9J1ZEf3UEm0hahmmiMw5ERad6x/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=JonielF alt=JonielF /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=JonielF&show_icons=true&include_all_commits=true)](https://github.com/JonielF/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonielF&layout=compact)](https://github.com/JonielF/github-readme-stats)
